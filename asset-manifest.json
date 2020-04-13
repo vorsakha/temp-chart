@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/temp-chart/static/js/main.0465cdc6.chunk.js",
+    "main.js.map": "/temp-chart/static/js/main.0465cdc6.chunk.js.map",
+    "runtime-main.js": "/temp-chart/static/js/runtime-main.f1757d95.js",
+    "runtime-main.js.map": "/temp-chart/static/js/runtime-main.f1757d95.js.map",
+    "static/css/2.89f067aa.chunk.css": "/temp-chart/static/css/2.89f067aa.chunk.css",
+    "static/js/2.038d5cda.chunk.js": "/temp-chart/static/js/2.038d5cda.chunk.js",
+    "static/js/2.038d5cda.chunk.js.map": "/temp-chart/static/js/2.038d5cda.chunk.js.map",
+    "index.html": "/temp-chart/index.html",
+    "precache-manifest.337f360151ed6ef169e97749d24cbef7.js": "/temp-chart/precache-manifest.337f360151ed6ef169e97749d24cbef7.js",
+    "service-worker.js": "/temp-chart/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/temp-chart/static/css/2.89f067aa.chunk.css.map",
+    "static/js/2.038d5cda.chunk.js.LICENSE.txt": "/temp-chart/static/js/2.038d5cda.chunk.js.LICENSE.txt",
+    "static/media/ZonAnn.Ts+dSST.csv": "/temp-chart/static/media/ZonAnn.Ts+dSST.ee5d39df.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1757d95.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.038d5cda.chunk.js",
+    "static/js/main.0465cdc6.chunk.js"
+  ]
+}
